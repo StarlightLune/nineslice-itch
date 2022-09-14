@@ -1,0 +1,1 @@
+window_set_size(100*7,120*7);
